@@ -13,7 +13,7 @@ In this practice we will use Play with Kubernetes which allows users to run K8 c
 Develop and implement container management and visualization tools in Kubernetes in the IaaS model. 
 
 ## Specific Objectives 
-- Use online tools such as Kubernetes Playgrown 
+- Use online tools such as Kubernetes Playground. 
 - Identify the nodes created with the Kubernetes container.
 
 
