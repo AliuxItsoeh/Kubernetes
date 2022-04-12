@@ -1,4 +1,4 @@
-# Preparing 5-Node Kubernetes Cluster
+<span style="color: green"> # Preparing 5-Node Kubernetes Cluster </span>
 
 ## Student: Brayan Aliux Reyes Martinez
 
